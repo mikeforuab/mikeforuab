@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Michael
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Algorithms and Data Structures/ Assembly Language/ Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mikeforau@gmail.com
 
 <!---
